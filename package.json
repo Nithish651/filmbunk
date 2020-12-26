@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "react": "^17.0.1",
+    "react-awesome-slider": "^4.1.0",
     "react-dom": "^17.0.1",
+    "react-image-slideshow": "^1.5.4",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-slideshow-image": "^3.4.3",
+    "swiper": "^6.4.5",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
